@@ -12,7 +12,7 @@
 <!--  </change-notes>-->
 
   <description>
-    Sublime Text Keymap for IntelliJ-based IDEs: IntelliJ IDEA, WebStorm, PhpStorm, Rider, and others
+    Sublime Text Keymap for IntelliJ-based IDEs: IntelliJ IDEA, WebStorm, PhpStorm, Rider, Android Studio, and others
   </description>
 
   <idea-version since-build="181"/>
